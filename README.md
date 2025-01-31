@@ -1,5 +1,7 @@
 # PawPlay 🐾🎮
 
+Website Link - https://vednik123.github.io/Simon-Says-Game/
+
 PawPlay is a fun and interactive website that generates animal images and facts using various APIs. It features three pages: **Home, APIs, and About Us**. The project is built using **HTML, CSS, and JavaScript**.
 
 ## 🌟 Features
@@ -24,8 +26,25 @@ PawPlay is a fun and interactive website that generates animal images and facts 
 ![image](https://github.com/user-attachments/assets/d9f130b9-0ea9-4c24-a5ed-40d752531049)
 ![image](https://github.com/user-attachments/assets/9afe1011-d17d-42a0-85b2-3564accc1d10)
 
-
-## 🛠️ How to Run the Project
-1. Clone the repository:
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch:
    ```bash
-   git clone https://github.com/yourusername/PawPlay.git
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+## Contact
+For any queries or suggestions, feel free to reach out:
+- **Name**: Vedant Nikam
+- **Email**: [nikam.vedant05@gmail.com]
+- **GitHub**: [https://github.com/Vednik123](https://github.com/Vednik123)
