@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    font-family: Arial;
+}
+
+.main{
+    height: 100vh;
+    background-image: url(background-safeimagekit.webp);
+    background-size: cover;
+}
+
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: white;  
+    display: flex;
+    align-items: center;
+    top: 0px;
+    position: sticky;
+}
+
+.navbar img{
+    height: 40px;
+    width: 40px;
+    padding-left: 50px;
+}
+
+.navopt{
+    height: 50px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 900px;
+}
+
+.navopt a{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    opacity: 50%;
+}
+
+.navopt a:hover{
+    font-size:21px;
+    text-decoration: underline blue;
+    text-shadow: 0 0 1px rgba(50, 171, 220, 0.392);
+    opacity: 100%;
+}
+
+.content{
+    height: 300px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    /* background-color: red; */
+}
+
+
+.para{
+    height:40px;
+    /* background-color: beige; */
+    color:#9731d1;
+    text-shadow:0 5px 1px white;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 0px;
+    padding-top: 30px;
+}
+
+.content a{
+  height: 60px;
+  width: 250px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  padding-top: 30px;
+}
+
+.play{
+    position: relative;
+    top: -40px;
+    background: linear-gradient(95deg,#9731d1,rgb(230, 46, 98));
+    border: 0;
+    height: 60px;
+    width: 250px;
+    border-radius: 1.5em;
+    margin: auto;
+    text-align: center; 
+    display: flex;
+    align-items: center;
+}
+
+.play:hover{
+    box-shadow: 0 5px 20px rgb(230, 46, 98);
+    cursor: pointer;
+    width: 255px;
+    height: 64px;
+}
+
+
+.imagescont{
+    height: 250px;
+    width: 1200px;
+    /* background-color: red; */
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.images{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 15px black;
+}
+
