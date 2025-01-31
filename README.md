@@ -1,6 +1,6 @@
 # PawPlay 🐾🎮
 
-Website Link - https://vednik123.github.io/Simon-Says-Game/
+Website Link -  https://vednik123.github.io/PawPlay-AnimalAPI-Game/
 
 PawPlay is a fun and interactive website that generates animal images and facts using various APIs. It features three pages: **Home, APIs, and About Us**. The project is built using **HTML, CSS, and JavaScript**.
 
